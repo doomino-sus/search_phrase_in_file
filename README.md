@@ -1,4 +1,4 @@
-##File Content Search
+# File Content Search
 
 Aplikacja desktopowa do przeszukiwania zawartości plików biurowych z interfejsem graficznym.
 
