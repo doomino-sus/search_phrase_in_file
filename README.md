@@ -1,7 +1,4 @@
-# search_phrase_in_file
-Aplikacja do przeszukiwania zawartości plików (Word, Excel, PowerPoint, PDF) z interfejsem graficznym. Umożliwia wyszukiwanie tekstu z uwzględnieniem wielkości liter w wielu plikach jednocześnie.
-
-# File Content Search
+#File Content Search
 
 Aplikacja desktopowa do przeszukiwania zawartości plików biurowych z interfejsem graficznym.
 
